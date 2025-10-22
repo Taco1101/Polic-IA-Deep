@@ -2,7 +2,7 @@
   "name": "polic-ia",
   "version": "1.0.0",
   "dependencies": {
-    "@react-google-maps/api": "^2.19.2",
+    "@react-google-maps/api": "^2.19.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
